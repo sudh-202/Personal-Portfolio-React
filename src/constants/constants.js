@@ -49,6 +49,16 @@ export const projects = [
     visit: "https://github.com/sudh-202/Personal-Portfolio",
     id: 5,
   },
+  {
+    title: "Liverr Clone",
+    description:
+      "This is a fully function clone of Liverr App built with Vite JS , Tailwind CSS.",
+    image: "/images/7.png",
+    tags: ["Vite", "Tailwind"],
+    source: "https://liverr.netlify.app/",
+    visit: "https://github.com/sudh-202/Liverr_UI",
+    id: 5,
+  },
 
   {
     title: "E-Commerce",
