@@ -59,6 +59,17 @@ export const projects = [
     visit: "https://github.com/sudh-202/Liverr_UI",
     id: 5,
   },
+  {
+    title: "AI Image Genrator",
+    description:
+      "Dive into the world of artificial intelligence and  generate everything from memes and art to beautiful UI/UX designs!",
+    image:
+      "https://user-images.githubusercontent.com/87563365/214626296-fc87d43f-d31e-483b-afbf-69a6b53f9835.jpg",
+    tags: ["Vite", "Tailwind", "Cloudinary", "OpenAI"],
+    source: "https://aigeneratedimages.netlify.app/",
+    visit: "https://github.com/sudh-202/AI-Image-Genrator",
+    id: 5,
+  },
 
   {
     title: "E-Commerce",
