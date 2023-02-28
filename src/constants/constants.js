@@ -77,7 +77,7 @@ export const projects = [
     image: "/images/8.jpg",
     tags: ["React", "TMDB Movie API", "Node JS"],
     source: "https://react-api-movie-app.netlify.app/",
-    visit: "https://google.com",
+    visit: "https://github.com/sudh-202/react-movie-main",
     id: 6,
   },
   {
