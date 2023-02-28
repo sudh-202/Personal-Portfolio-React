@@ -72,13 +72,22 @@ export const projects = [
   },
 
   {
+    title: "t-Movies",
+    description: "Responsive React Movies App With API",
+    image: "/images/8.jpg",
+    tags: ["React", "TMDB Movie API", "Node JS"],
+    source: "https://react-api-movie-app.netlify.app/",
+    visit: "https://google.com",
+    id: 6,
+  },
+  {
     title: "E-Commerce",
     description: "Comming Soon...",
     image: "/images/comming soon.jpeg",
     tags: ["React", "Firebase", "Redux", "Stripe", "Node JS"],
     source: "https://google.com",
     visit: "https://google.com",
-    id: 6,
+    id: 7,
   },
   {
     title: "Blog App",
@@ -87,7 +96,7 @@ export const projects = [
     tags: ["React", "Firebase", "Express JS", "Node JS"],
     source: "https://google.com",
     visit: "https://google.com",
-    id: 7,
+    id: 8,
   },
   {
     title: "Bookings App",
@@ -96,7 +105,7 @@ export const projects = [
     tags: ["React", "Firebase", "Express JS", "Node JS"],
     source: "https://google.com",
     visit: "https://google.com",
-    id: 8,
+    id: 9,
   },
 ];
 
