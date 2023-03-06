@@ -80,6 +80,17 @@ export const projects = [
     visit: "https://github.com/sudh-202/react-movie-main",
     id: 6,
   },
+
+  {
+    title: "3-D Model Website",
+    description:
+      "Responsive 3d portfolio Website using React and  3-D Models of Three.js",
+    image: "/images/3d.jpg",
+    tags: ["React", "Three JS", "Email JS", "Vite"],
+    source: "https://3d-model-site.netlify.app/",
+    visit: "https://github.com/sudh-202/3d-Model",
+    id: 7,
+  },
   {
     title: "E-Commerce",
     description: "Comming Soon...",
@@ -87,8 +98,9 @@ export const projects = [
     tags: ["React", "Firebase", "Redux", "Stripe", "Node JS"],
     source: "https://google.com",
     visit: "https://google.com",
-    id: 7,
+    id: 8,
   },
+
   {
     title: "Blog App",
     description: "Comming Soon...",
@@ -96,8 +108,9 @@ export const projects = [
     tags: ["React", "Firebase", "Express JS", "Node JS"],
     source: "https://google.com",
     visit: "https://google.com",
-    id: 8,
+    id: 9,
   },
+
   {
     title: "Bookings App",
     description: "Comming Soon...",
@@ -105,7 +118,7 @@ export const projects = [
     tags: ["React", "Firebase", "Express JS", "Node JS"],
     source: "https://google.com",
     visit: "https://google.com",
-    id: 9,
+    id: 10,
   },
 ];
 
